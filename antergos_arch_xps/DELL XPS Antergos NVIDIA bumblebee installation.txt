@@ -1,0 +1,7 @@
+https://antergos.com/wiki/hardware/bumblebee-for-nvidia-optimus/
+
+but don't install bbswitch
+
+and set the bumblebee.conf to driver=Nvidia
+
+in gnome settings-->power, set the power button to "When to Power button is pressed" hibernate
